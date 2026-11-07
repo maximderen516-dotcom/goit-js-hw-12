@@ -1,3 +1,6 @@
+   @import './base.css';
+   @import './gallery.css';
+   @import './loader.css';
 *,
 *::before,
 *::after {
